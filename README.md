@@ -1,6 +1,6 @@
 
 
-<div style="text-align: center">
+<div align='center'>
 
 <img src="https://github.com/itsmistad/itsmistad/blob/main/assets/Animated%20Banner.gif" />
 
@@ -14,7 +14,9 @@
 
 <br />
 
-# Howdy 👋
+### Howdy 👋
+
+---
 
 My name's DJ.
 
